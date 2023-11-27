@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
+    "c:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
+    "c:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "c:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "C:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectPath": "c:\\Dio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "packagesPath": "C:\\Users\\gabriel.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Dio\\DesafioFundamentos\\obj\\",
+        "outputPath": "c:\\Dio\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio2022\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
